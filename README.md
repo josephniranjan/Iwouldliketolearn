@@ -1,6 +1,6 @@
 # Iwouldliketolearn
-I would like to learn the following topics in tamil, Thanks
-
+I would like to learn the following software concepts / topics in tamil,could you please create it for me, Thanks
+c
 1. What is Blackbox Testing ?
 2. 
 3. 
